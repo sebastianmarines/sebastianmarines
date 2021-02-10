@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Marines</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sebastian-marines-892a9a166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sebastian-marines-892a9a166" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sebastian-marines-892a9a166" target="blank"><img align="center" src="https://gist.githubusercontent.com/sebastianmarines/ab8da37c9cec1198f424ea343a090f4c/raw/1877a68ed40a84838da52b9c4b9416ac3d91a418/linkedin.svg" alt="sebastian-marines-892a9a166" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
