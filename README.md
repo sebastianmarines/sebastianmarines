@@ -1,3 +1,10 @@
+# 🚴🏽‍♂️ Sebastian Marines
+Hi, my name is Sebastian Marines and I am a programming enthusiast. 
+
+I use mainly **Python** but I am also proeficient in **JS/TS**. I'm also interested in functional programming and have been playing with **Elixir** and **Haskell**.
+
+I'm currently working as a DevOps trainee at [ClickIT](https://www.clickittech.com), learning about Linux server administration and AWS cloud services.
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
