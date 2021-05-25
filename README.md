@@ -1,3 +1,7 @@
+## Certifications
+<a href="https://www.credly.com/badges/ee9166c9-7fbc-4fab-be8c-5343c04beedf/public_url" target="blank"><img align="center" src="AWS-CloudPractitioner-2020.png" alt="aws-clf" height="100" /></a>
+
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
