@@ -1,7 +1,3 @@
-## Certifications
-<a href="https://www.credly.com/badges/ee9166c9-7fbc-4fab-be8c-5343c04beedf/public_url" target="blank"><img align="center" src="AWS-CloudPractitioner-2020.png" alt="aws-clf" height="100" /></a>
-
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
@@ -20,6 +16,9 @@
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Linux-fff?&style=for-the-badge&logo=linux&logoColor=black)
+
+## Certifications
+<a href="https://www.credly.com/badges/ee9166c9-7fbc-4fab-be8c-5343c04beedf/public_url" target="blank"><img align="center" src="AWS-CloudPractitioner-2020.png" alt="aws-clf" height="100" /></a>
 
 ## Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianmarines/)
