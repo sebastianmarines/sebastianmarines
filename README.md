@@ -9,6 +9,7 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&logoColor=4479A1)](https://www.postgresql.org/)
 
 ## ⚙️ Tools
+[![Terraform](https://img.shields.io/badge/-Terraform-fff?style=for-the-badge&logo=terraform&logoColor=7b42bc)](https://www.terraform.io/)
 [![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)](https://www.atlassian.com/es/software/jira)
 [![AWS](https://img.shields.io/badge/-AWS-F90?&style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
