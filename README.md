@@ -15,6 +15,7 @@
 [![AWS](https://img.shields.io/badge/-AWS-F90?&style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
 
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-F90?&style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&style=for-the-badge&logo=linux&logoColor=black)
 
