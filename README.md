@@ -20,6 +20,7 @@
 
 ## 🏅 Certifications
 <a href="https://www.credly.com/badges/ee9166c9-7fbc-4fab-be8c-5343c04beedf/public_url" target="blank"><img align="center" src="AWS-CloudPractitioner-2020.png" alt="aws-clf" height="100" /></a>
+<a href="https://www.credly.com/badges/7f688363-88ff-42f4-9699-d33af0dd85fb/public_url" target="blank"><img align="center" src="AWS-Certified_Solutions-Architect_Associate.png" alt="aws-clf" height="100" /></a>
 
 ## 💬 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianmarines/)
