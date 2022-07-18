@@ -7,6 +7,8 @@
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/-React-fff?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&logoColor=4479A1)](https://www.postgresql.org/)
+[![Go](https://img.shields.io/badge/go%20-%230db7ed.svg?&style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+
 
 ## ⚙️ Tools
 [![Terraform](https://img.shields.io/badge/-Terraform-fff?style=for-the-badge&logo=terraform&logoColor=7b42bc)](https://www.terraform.io/)
