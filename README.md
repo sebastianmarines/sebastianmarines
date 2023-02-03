@@ -26,8 +26,5 @@
 <a href="https://www.credly.com/badges/7f688363-88ff-42f4-9699-d33af0dd85fb/public_url" target="blank"><img align="center" src="AWS-Certified_Solutions-Architect_Associate.png" alt="aws-saa" height="100" /></a>
 <a href="https://www.credly.com/badges/ebda05b7-afcf-45d3-b341-66d1e32a5d95/public_url" target="blank"><img align="center" src="terraform.png" alt="aws-clf" height="100" /></a>
 
-## 💬 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianmarines/)
-
 <br>
 <img src="gopher.gif">
