@@ -22,9 +22,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-fff?&style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🏅 Certifications
-<a href="https://www.credly.com/badges/ee9166c9-7fbc-4fab-be8c-5343c04beedf/public_url" target="blank"><img align="center" src="https://github.com/sebastianmarines/sebastianmarines/assets/18373185/34744fc5-f4f0-4077-8485-0b044df40529" alt="aws-ccp" height="100" /></a>
 <a href="https://www.credly.com/badges/7f688363-88ff-42f4-9699-d33af0dd85fb/public_url" target="blank"><img align="center" src="https://github.com/sebastianmarines/sebastianmarines/assets/18373185/a5aa09b6-f1bb-4adc-9c15-04d27d0aac8b" alt="aws-saa" height="100" /></a>
 <a href="https://www.credly.com/badges/9ba50f0c-74a4-4eea-8bec-8a8dbfd95e3d/public_url" target="blank"><img align="center" src="https://github.com/sebastianmarines/sebastianmarines/assets/18373185/0c6990ff-9506-46b1-8981-955ad87fe2e4" alt="aws-dva" height="100" /></a>
+<a href="https://www.credly.com/badges/90474635-de8c-47f4-8e4d-848311cbe6f8public_url" target="blank"><img align="center" src="https://github.com/sebastianmarines/sebastianmarines/blob/main/image.png?raw=true" alt="aws-soa" height="100" /></a>
+<a href="https://www.credly.com/badges/ee9166c9-7fbc-4fab-be8c-5343c04beedf/public_url" target="blank"><img align="center" src="https://github.com/sebastianmarines/sebastianmarines/assets/18373185/34744fc5-f4f0-4077-8485-0b044df40529" alt="aws-ccp" height="100" /></a>
 
 <a href="https://www.credly.com/badges/ebda05b7-afcf-45d3-b341-66d1e32a5d95/public_url" target="blank"><img align="center" src="terraform.png" alt="aws-clf" height="100" /></a>
 
